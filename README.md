@@ -12,8 +12,8 @@
 [<img align="left" alt="ChrisCollings | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ChrisCollings | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]:https://twitter.com/chriscollings
-[linkedin]:https://linkedin.com/in/chriscollings
+[twitter]: https://twitter.com/chriscollings
+[linkedin]: https://linkedin.com/in/chriscollings
 
 <!--
 **Siliconchippy/Siliconchippy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
