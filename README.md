@@ -1,4 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Chris! <br/><a href="https://github.com/Siliconchippy">Web Developer</a>, <a href="https://www.linkedin.com/in/chriscollings/">Javascript Learner</a>, <a href="https://www.coronationdaycentre.co.uk">Community Volunteer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+
+<h2>My Qualifications</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="ChrisCollings | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ChrisCollings | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]:https://twitter.com/chriscollings
+[linkedin]:https://linkedin.com/in/chriscollings
 
 <!--
 **Siliconchippy/Siliconchippy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
